@@ -1,4 +1,4 @@
-通过温度，光照情况等信息，预测办公室里是否有人。
+Predict whether there are people in the office based on information such as temperature and light conditions.
 
 Experimental data used for binary classification (room occupancy) from Temperature,Humidity,Light and CO2. Ground-truth occupancy was obtained from time stamped pictures that were taken every minute.
 
